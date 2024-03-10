@@ -1,0 +1,1 @@
+Effective fake news detection will reduce defamation of individuals: A common practice to hide the source of the entity spreading fake news is to hijack other individuals' accounts. The owners of such accounts may be defamed, e.g. by the spread of fake news.
